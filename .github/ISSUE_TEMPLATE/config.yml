@@ -7,5 +7,5 @@ contact_links:
     url: https://github.com/googlesamples/mlkit
     about: The MLKit on-device SDK has moved out of Firebase and the best place to get support is on their samples repository.
   - name: 🔥 Firebase Support
-    url: https://firebase.google.com/support/
+    URL: https://firebase.google.com/support/
     about: If you have an urgent issue with your app, please contact support.
